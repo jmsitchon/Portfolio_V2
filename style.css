@@ -26,7 +26,7 @@ blockquote {
     background-color: inherit;
     color: rgb(117, 98, 12);
     font: italic 15px "Time New Roman", serif;
-    border-left: 10px solid rgb(255, 212, 19);
+    border-left: 10px solid rgb(130, 57, 247);
     padding: 2px 15px;
 }
 #wrapper {
@@ -42,7 +42,10 @@ blockquote {
     height: 175px;
     border: 0px;
     color: #fff;
-    background-image: url(bg-banner.jpg);
+    background-image: url(rams.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-size: 100% 100%;
     border-radius: 8px;
 }
 #banner h1 {
